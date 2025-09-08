@@ -1,6 +1,6 @@
 # Hi
 
-My name is Santiago Tamayo, I'm a second year student of Data Science at ESCOM, IPN.
+My name is Santiago Tamayo, I'm a fourth-year Data Science student at ESCOM, IPN.
 
 ## **Skills**
 
